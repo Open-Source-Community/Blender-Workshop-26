@@ -111,3 +111,4 @@ If you'd like to contribute improvements or examples, pull requests are welcome!
 ---
 
 ✨ **Happy Blending & Enjoy the Workshop!** ✨
+![Blender Workshop 26](photo.png)
